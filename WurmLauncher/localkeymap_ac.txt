@@ -11629,7 +11629,7 @@ _vs_->
 +Drag->
 +Free Sleep->
 +Manage->+管理
-+Passenger->
++Passenger->+乘客
 +Sleep->
 </a></p>\n\t->
 </a></TD>\n\t\t\t<TD class=\->
@@ -18012,6 +18012,7 @@ Goldsniffer->
 gold-twenty coins->二十塊金幣
 Golem roar->
 Gollum->
+gorilla->大猩猩
 Gone->
 Gone?->
 gong-gong->
@@ -24453,8 +24454,8 @@ Shipbuilding resources->造船資源
 ships->船
 Ships->船
 Shipwright->
-shod club->
-shod clubs->
+shod club->棒棒槌
+shod clubs->棒棒槌
 shoein->
 shoo->
 Shoot->射擊
@@ -25055,8 +25056,9 @@ SPENT->
 SPENTLASTMONTH->
 SPENTLIFE->
 Spices->香料
-spider lair->
-Spiders Killed->
+spider->蜘蛛
+spider lair->蜘蛛巢穴
+Spiders Killed->蜘蛛已被殺死
 spike barrier->釘障
 Spin->
 spindle->紡錘
