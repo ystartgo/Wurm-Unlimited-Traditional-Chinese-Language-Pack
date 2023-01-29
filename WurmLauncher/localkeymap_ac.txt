@@ -1,4 +1,4 @@
-Pp Empire->皮皮帝國					   
+﻿Pp Empire->皮皮帝國					   
 North->北 
 Center->中心
 South->南
@@ -1297,6 +1297,7 @@ Release opengl context during sleep too->
 Enable Nagles Algorithm for combining packets->
 <html><body>Reduces bandwidth used in exchange for higher latency.<br /><br />Recommended Setting: Disabled->
 Game->遊戲
+game->遊戲
 Text->文本
 Sound->聲音
 Graphics->圖像
@@ -1621,7 +1622,7 @@ Toggle hud settings->切換hud設定
 TOGGLE_HUD_SETTINGS->
 Toggle crafting window->切換製作視窗
 TOGGLE_CRAFTING->
-Toggle crafting recipes->切換製作食譜
+Toggle crafting recipes->切換製作配方
 TOGGLE_CRAFTING_RECIPES->
 Toggle console->切換控制台
 Toggle skills->切換技能
@@ -1661,6 +1662,7 @@ Track->尋蹤覓跡
 TRACK->尋蹤覓跡
 Fish->釣魚
 FISH->魚
+fish'n chips->炸魚薯條
 Stop->停止
 STOP->停止
 Sell->賣
@@ -1685,6 +1687,7 @@ Finalize building->完成建設
 FINALIZE_BUILDING->完成建設
 Activate->啟用
 ACTIVATE->啟用
+activate->啟用
 Open->打開
 OPEN->打開
 Close->關閉
@@ -1765,6 +1768,7 @@ Cut down->砍伐
 CUT_DOWN->砍伐
 Chop up->割斷
 CHOP_UP->割斷
+chocolate->巧克力
 Forage->搜尋
 FORAGE->搜尋
 Forage vegetable->搜尋蔬菜
@@ -1808,59 +1812,60 @@ MINE_SURFACE->
 Tunnel->挖洞
 MINE_TUNNEL->
 Mine forward->向前挖
-MINE_FORWARD->
+MINE_FORWARD->向前挖
 Mine down->向下挖
-MINE_DOWN->
+MINE_DOWN->向下挖
 Mine up->向上挖
-MINE_UP->
+MINE_UP->向上挖
+minced->剁碎
 Prospect->勘探
 PROSPECT->
 Analyse->分析
-ANALYSE->
+ANALYSE->分析
 Target->目標
-TARGET->
+TARGET->目標
 Target hostile->敵對目標
-TARGET_HOSTILE->
+TARGET_HOSTILE->敵對目標
 No target->取消目標
-NO_TARGET->
+NO_TARGET->取消目標
 Fight defensive->謹慎的戰鬥
-FIGHT_DEFENSIVE->
-Fight normal->普通的戰鬥
-FIGHT_NORMAL->
+FIGHT_DEFENSIVE->謹慎的戰鬥
+Fight normal->正常戰鬥
+FIGHT_NORMAL->正常戰鬥
 Fight aggressively->積極的戰鬥
-FIGHT_AGGRESSIVELY->
+FIGHT_AGGRESSIVELY->積極的戰鬥
 Aim upper Left->攻擊左上
-AIM_UPPER_LEFT->
+AIM_UPPER_LEFT->攻擊左上
 Aim upper Middle->攻擊頂部
-AIM_UPPER_MIDDLE->
+AIM_UPPER_MIDDLE->攻擊頂部
 Aim upper Right->攻擊右上
-AIM_UPPER_RIGHT->
-Aim left->攻擊左邊
-AIM_LEFT->
+AIM_UPPER_RIGHT->攻擊右上
+Aim left->攻擊左側
+AIM_LEFT->攻擊左側
 Aim middle->攻擊當中
-AIM_MIDDLE->
+AIM_MIDDLE->攻擊當中
 Aim right->攻擊右側
-AIM_RIGHT->
+AIM_RIGHT->攻擊右側
 Aim lower left->攻擊左下
-AIM_LOWER_LEFT->
+AIM_LOWER_LEFT->攻擊左下
 Aim lower middle->攻擊下盤
-AIM_LOWER_MIDDLE->
+AIM_LOWER_MIDDLE->攻擊下盤
 Aim lower right->攻擊右下
-AIM_LOWER_RIGHT->
+AIM_LOWER_RIGHT->攻擊右下
 Archery Shoot->射箭
-SHOOT->
+SHOOT->射
 Archery Quick Shot->速射
-QUICK_SHOT->
+QUICK_SHOT->速射
 Archery Shoot Face->射臉
-SHOOT_FACE->
+SHOOT_FACE->射臉
 Archery Shoot Torso->射軀幹
-SHOOT_TORSO->
+SHOOT_TORSO->射軀幹
 Archery Shoot Left Arm->射左手
-SHOOT_LEFTARM->
+SHOOT_LEFTARM->射左手
 Archery Shoot Right Arm->射右手
-SHOOT_RIGHTARM->
+SHOOT_RIGHTARM->射右手
 Archery Shoot Legs->射腿
-SHOOT_LEGS->
+SHOOT_LEGS->射腿
 Defend left->防禦左側
 DEFEND_LEFT->防禦左側
 Defend right->防禦右側
@@ -1870,23 +1875,23 @@ DEFEND_UPPER->防禦上段
 Defend lower->防禦下面
 DEFEND_LOWER->防禦下段
 Focus->集中注意力
-FOCUS->
+FOCUS->集中注意力
 Shield bash->盾擊
-SHIELD_BASH->
+SHIELD_BASH->盾擊
 Special move 1->特殊移動1
-SPECIAL_MOVE1->
+SPECIAL_MOVE1->特殊移動1
 Special move 2->特殊移動2
-SPECIAL_MOVE2->
+SPECIAL_MOVE2->特殊移動2
 Special move 3->特殊移動3
-SPECIAL_MOVE3->
+SPECIAL_MOVE3->特殊移動3
 Special move 4->特殊移動4
-SPECIAL_MOVE4->
+SPECIAL_MOVE4->特殊移動4
 Special move 5->特殊移動5
-SPECIAL_MOVE5->
+SPECIAL_MOVE5->特殊移動5
 Pray->祈禱
 PRAY->祈禱
-Preach->布道
-PREACH->布道
+Preach->傳教
+PREACH->傳教
 Listen->聆聽
 LISTEN->聆聽
 Link->鏈接
@@ -3479,7 +3484,8 @@ Invalid skill: ->
 dropDecimalsOptions->
 dropDecimalsOptionsText->
 Decimals: ->
-active->
+active->主動
+Active->主動
 dropSkillGain->
 Main->
 SkillTrackerOptionsWindow->技能跟蹤選項視窗
@@ -5291,7 +5297,6 @@ oil->油
 water->水
 charcoal->木炭
 honey->蜂蜜
-fat->脂肪
 paper->紙
 wool->羊毛
 rye->黑麥
@@ -5372,9 +5377,11 @@ fish.->魚
 liquid.->液體
 light.->光
 food.->食物
-herb.->藥草
+herb.->草藥
+herb->草藥
 flower.->花
-fruit.->果實
+fruit.->水果
+fruit-ade-水果汽水
 armour.->盔甲
 shield.->盾牌
 shield->盾牌
@@ -6366,6 +6373,8 @@ Failed to create XMLReader!!->
  close to your chest.->
  coins to make the trade.->
  coins.->錢幣.
+ cocoa->可可
+ cocoa bean->可可豆
  color=->
  Colors: R=->顏色：R =
  COMBAT MOVE->戰鬥移動
@@ -6841,8 +6850,9 @@ Failed to create XMLReader!!->
  farts loudly. Or was it the ->
  farts on ->
  farts.->
- fat ->
- father is ->
+ fat ->脂肪
+ Fats->脂肪
+ father is ->父親是
  favor to cast spells while ->
  favors.->
  feeds you some delicious steak and cool water.->
@@ -8770,6 +8780,7 @@ fog spider->霧蜘蛛
  redeems the items of ->
  redirected from ->
  reed tiles and ->
+ reel->捲線器
  reels the ->
  referrers from the database took ->
  refreshed ->
@@ -10028,7 +10039,6 @@ fog spider->霧蜘蛛
  will not fit in the ->
  will not fit inside the ->
  will not fit.->
-							 
  will not leave the server.->
  will not let a ruler such as yourself risk ->
  will not let you use that item.->
@@ -10633,8 +10643,8 @@ leaves the->離開
 , failed to set money to ->
 , faith ->信仰
 , farmed=->
-, fat level ->
-, fat=->
+, fat level ->肥胖程度
+, fat=->肥胖
 , fatigue: ->
 , Female name: ->
 , fence: ->
@@ -13222,7 +13232,7 @@ Animal husbandry->畜牧業
 Animal options->
 Animal taming->馴獸術
 Animal Trainer->
-Animal Type->
+Animal Type->動物種類
 Animals->動物
 Animal's demise->
 ann->
@@ -13599,6 +13609,7 @@ Basically unnatural->
 basil->羅勒
 basinet helm->輕鋼頭盔
 basinet helms->
+battered chicken-受虐雞
 battle camp->
 battle camps->
 battle of Kyara tapestry->Kyara之戰掛毯
@@ -14979,6 +14990,7 @@ cooked meat->熟肉
 Cooked meat.->熟肉
 cooked rice->米飯
 Cooking->烹飪
+cooking->烹飪
 Cooking utensils->炊具
 COOLDOWN1->
 COOLDOWN2->
@@ -15497,6 +15509,7 @@ Deer are easy to hunt->
 Deer Killed->
 Deer Nemesis->
 deer.->鹿
+deer->鹿
 Default action->
 Default Mayor Role\->
 defaulting->
@@ -17753,7 +17766,6 @@ Friend list invitation->
 Friendly->
 Friendly Person->
 Friends? What trap is this?->
-			 
 Frogleap->
 from->
 From ->
@@ -18470,7 +18482,8 @@ her->她的
 Her aim is to gain control here, and your goal is to stop the others from gaining it instead.->
 Herbalist->中醫
 herb->加料的
-Herbs->藥草
+Herbs->草藥
+herbs->草藥
 HERE _ No such zone: ->
 Here is ->
 Here! That hurt, didn't it?->
@@ -18491,7 +18504,6 @@ hiccups->
 hid->隱藏
 HIDDEN->
 HIDDEN_ITEMS_RW_LOCK->
-			
 hide->潛行
 Hide->生皮
 Hide\->
@@ -18645,6 +18657,7 @@ Horse shoe bonus ->
 horse shoes->馬蹄鐵
 Horse Whisperer->
 Horses ass->
+Horse hide-馬生皮
 Horses like this one have many uses.->一匹像這樣的馬有很多用途
 Hostname of local machine used to send registration emails: ->
 Hot->
@@ -22825,8 +22838,8 @@ Poor ->貧窮的
 poor quality->質量差的
 Poor thing.->可憐的東西
 Popular Joe->熱門喬
-porridge->
-porridges->
+porridge->稀飯
+porridges->稀飯
 portal->橋門
 portalling->
 portals->
@@ -23309,6 +23322,7 @@ recharging->
 Recharging->
 Recharging ->
 recipient of the ->
+Recipes->食譜
 Recite->
 reciting->
 Reconnected->
@@ -23720,6 +23734,7 @@ Road Warrior->
 Roadbuilder->
 Roadway->
 Robber->
+Robbycrusoe's poutine->羅比克魯索的布丁
 robes->
 Robin Hood->
 rock->岩石
@@ -23755,6 +23770,7 @@ Roofs->屋頂
 Roofer->屋頂工人
 Room temperature->室內溫度
 Rooster->公雞
+rooster->公雞
 Root element :->
 Roots stretch out from the mycelium, entangling ->
 Rope abutment->繩橋台
@@ -33638,7 +33654,6 @@ Set volume to->度量
 sugar beet->甜菜
 cornflour->玉米粉
 seeds->種子
-cocoa bean->可可豆
 oleander->夾竹桃
 sugar->糖
 bsb->大儲藏櫃
@@ -33647,6 +33662,7 @@ cochineals->胭脂紅
 salts->鹽
 hops->啤酒花
 seedlings->幼苗
+seedling->苗
 camellia->山茶花
 walls->墻
 icebox->冰盒
@@ -33768,7 +33784,6 @@ Pave->鋪平
 Pave nearest corner->鋪最近的角落
 should->應該
 another spot->另一個地方
-herbs->草藥
 grow over->長大
 so->所以
 later->之後
@@ -33786,7 +33801,6 @@ any Veg->任何蔬菜
 suddenly realise that->突然意識到
 have more of an insight about tailoring->對裁縫有更多的了解
 have more of an insight about nature->對自然有了更多的感悟
-Gain->獲得
 session->升階
 Gain per hour->每小時收益
 Average tick->平均刻度
@@ -33800,18 +33814,14 @@ secure->固定
 light->點亮
 Calories->卡路里
 Carbs->碳水化合物
-Fats->脂肪
-proteins->蛋白質
+Proteins->蛋白質
 apple->蘋果
 ingredient->成分
 cooker->炊具
-Recipes->食譜
 Optional->可選的
 Show favourites only->顯示最愛
 breadcrumbs->麵包屑
 milling->碾磨
-Active->主要
-activate->啟用
 slice of-切片
 any->任何
 any veg->任何蔬菜
@@ -33824,9 +33834,7 @@ cream->奶油
 cow->奶牛
 mashed->搗碎
 mushroom->蘑菇
-cooking->烹飪
 nut->堅果
-herb->草藥
 chicken parmigiana->帕爾馬干酪雞
 sausage skin->香腸皮
 Thor's Austrian dream schnitzel->雷神的奧地利夢炸肉排
@@ -33836,18 +33844,3 @@ unfermented->未發酵
 fermenting->發酵
 whipped->鮮奶油
 croutons->油炸麵包塊
-cocoa->可可
-chocolate->巧克力
-Robbycrusoe's poutine->羅比克魯索的布丁
-porridge->稀飯
-fish'n chips->炸魚薯條
-fruit-ade-水果汽水
-battered chicken-受虐雞
-minced->剁碎
-human->人類
-Horse hide-馬生皮
-reel->捲線器
-seedling->苗
-game->雜
-rooster->公雞
-deer->鹿				 
