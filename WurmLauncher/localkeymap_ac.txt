@@ -5382,7 +5382,6 @@ herb.->草藥
 herb->草藥
 flower.->花
 fruit.->水果
-fruit-ade-水果汽水
 armour.->盔甲
 shield.->盾牌
 shield->盾牌
@@ -11664,7 +11663,7 @@ _vs_->
 <rsp stat=\->
 <System> ->
 <System> Only messages starting with WTB, WTS, WTT, PC or @ are allowed. ->
-<System> Please PM the person if you are interested in the Item.->
+<System> Please PM the person if you are interested in the Item.->如果您對該項目感興趣，請 PM 此人
 <System> This is the Community Assistance window. Just type your questions here. To stop receiving these messages, manage your profile.-><系統>這是社區援助視窗.只是在這裡鍵入您的問題.要停止接收這些消息,管理您的個人資料.
 <System> This is the GV Help window. just reply to questions here. To stop receiving these messages, manage your profile.-><系統>這是GV幫助視窗.只需回覆的問題在這裡.要停止接收這些消息,管理您的個人資料.
 <System> This is the Kingdom Chat for your current server. -><系統>這是當前服務器全國聊天.
@@ -13609,7 +13608,7 @@ Basically unnatural->
 basil->羅勒
 basinet helm->輕鋼頭盔
 basinet helms->
-battered chicken-受虐雞
+battered chicken->受虐雞
 battle camp->
 battle camps->
 battle of Kyara tapestry->Kyara之戰掛毯
@@ -14672,6 +14671,8 @@ cheeses->奶酪
 Chef->廚師
 Chemist->化學家
 cherries->櫻桃
+Cherries->櫻桃
+Cherries Jubilee->美酒樱桃
 Cherry->櫻桃
 Cherry: ->櫻桃:
 cherrytree->櫻桃樹
@@ -17791,6 +17792,7 @@ fruit juice->果汁
 fruit juices->果汁
 fruit press->水果榨汁機
 fruit presses->水果榨汁機
+fruit-ade->水果汽水
 frying pan->平底鍋
 frying pans->平底鍋
 Fu->
