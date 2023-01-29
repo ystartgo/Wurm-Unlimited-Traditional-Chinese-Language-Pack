@@ -2905,11 +2905,11 @@ Search->查找
 Search category->搜索類別
 Search material->搜尋材料
 Clear->明確
-Starting items->製造的首步
-Additional items->其他項目
-Add starting items to crafting->新增啟動項,以建造
+Starting items->起始物品
+Additional items->附加物品
+Add starting items to crafting->將起始物品添加到製作中
 hand->手
-Find on Wurmpedia->在Wurm百科查找
+Find on Wurmpedia->在百科查找
 Item:->物品:
 Creation Window->創建視窗
 Chance->成功率
@@ -3405,8 +3405,9 @@ Quiver slot->箭袋槽
 playerStateButtons->
 img.iconsheet.buttons0->
 Quickbar Options->
-Hide window->
-Partially hide window->
+Hide window->隱藏視窗
+partially->部分
+Partially hide window->部分視窗隱藏
 Show full window->
 img.plonk.glow->
 main->
@@ -6373,8 +6374,6 @@ Failed to create XMLReader!!->
  close to your chest.->
  coins to make the trade.->
  coins.->錢幣.
- cocoa->可可
- cocoa bean->可可豆
  color=->
  Colors: R=->顏色：R =
  COMBAT MOVE->戰鬥移動
@@ -13522,10 +13521,11 @@ Bad randomizer->
 Bad tile at ->
 Bad upbringing->
 Bad value from toJSONString: ->
-bag of keeping->
+bag of keeping->保管包
+bag->包
 Bags->包
-bags of keeping->
-Bake 20 loaves of bread->烤20塊面包
+bags of keeping->保管包
+Bake 20 loaves of bread->烤20塊麵包
 Bake Sale->
 Baker->
 balcony->陽台
@@ -13540,9 +13540,9 @@ ballista dart head->弩針頭
 Ballistae->弩炮
 ballistas->
 balls->
-ban->
-Ban expires in->
-Ban reason->
+ban->封鎖
+Ban expires in->封鎖到期於
+Ban reason->封鎖原因
 Band->
 bandage->包紮
 You bandage the wound with a cotton.->你用棉花包紮這個傷口.
@@ -13554,7 +13554,7 @@ banip->
 Bank->銀行
 Bank [id: ->
 Bank account with owner ->所有者的銀行帳戶
-Bank management->
+Bank management->管理銀行
 Bank of ->
 Bank polling now: ->
 Banked->
@@ -13776,6 +13776,7 @@ bladder->膀胱
 bladders->膀胱
 Blades smithing->刀刃鍛造
 Bleed, ->流血
+blind->盲
 Blended with water, this would produce lye.->與水混合,這將產生鹼液.
 blessing->祝福
 Blessings of the Dark->黑暗的祝福
@@ -13921,13 +13922,14 @@ Bowmaker->鮑梅克
 bows->弓
 Bows->弓
 Bowyery->制弓
+box->箱
 BR-->
 Braaains->
 bracelet->手鐲
 bracelet of inspiration->靈感的手鐲
 bracelets->手鐲
-branch->分支
-branches->分支
+branch->樹枝
+branches->樹枝
 brand->
 Brand->牌
 Branded animals->品牌動物
@@ -13940,6 +13942,7 @@ brass ribbon->黃銅絲帶
 brass ribbons->黃絲帶
 brass scrap->廢黃銅
 Brave->勇敢的
+braided->編織
 brazier->火盆
 brazier bowl->火盆碗
 brazier stand->火盆架
@@ -14435,6 +14438,7 @@ Casts land of the dead->
 Casts land of the dead near ->
 cat->貓
 Cat->貓
+catseye->貓眼
 catapult->投石車
 Catapults->彈射裝置
 Catch 1000 fish->抓住1000條魚
@@ -14814,6 +14818,8 @@ Coaler->炭工
 Coal-making->製作木炭
 Cobblestone in nearest corner->
 Cobra King->眼鏡蛇王
+cocoa->可可
+cocoa bean->可可豆
 cochineal->胭脂紅
 cochineals->
 cod->
@@ -15502,6 +15508,7 @@ Deed with id ->契約的ID
 Deedid->契約ID
 DEEDID->契約ID
 Deep->深
+deep->深
 Deep in your heart, you feel certain that ->
 Deep Pockets->
 Deer->鹿
@@ -17780,16 +17787,16 @@ Frozen->凍結
 Frozen. Ignoring.->
 FrozenItemDbStrings->
 fruit->水果
-fruit juice->汁
-fruit juices->
+fruit juice->果汁
+fruit juices->果汁
 fruit press->水果榨汁機
-fruit presses->
+fruit presses->水果榨汁機
 frying pan->平底鍋
-frying pans->
+frying pans->平底鍋
 Fu->
-full->
+full->完整
 Full inventory.->
-full.->
+full.->完整
 Fun->
 fur->毛皮
 Furnaces->火爐
@@ -18504,9 +18511,9 @@ hiccups->
 hid->隱藏
 HIDDEN->
 HIDDEN_ITEMS_RW_LOCK->
-hide->潛行
-Hide->生皮
-Hide\->
+hide->隱藏
+Hide->隱藏
+Hide\->隱藏
 hidemeditation->
 hideoccultist->
 hides->潛行（或隱藏）
@@ -18553,6 +18560,7 @@ hired->
 hired\->
 his->他的
 His creations surround you. His love is everywhere around you.->
+Highway->公路
 History->歷史
 History Bed->床的使用記錄
 History Item->物品歷史
@@ -21409,6 +21417,7 @@ NEEDS TO HAVE A LOCK!->需要安裝鎖!
 neighbourServer->
 Neither... I.->
 Nerd.->
+net->網
 net trap->網陷阱
 net traps->網陷阱
 nettles->蕁麻
@@ -21416,9 +21425,9 @@ neutral guard tower->
 never->
 Never\->
 Nevertheless, I will find them out.->
-new->
+new->新
 New->新
-new ->
+new ->新
 New balance: ->
 New chance=->
 New creator (->
@@ -22322,6 +22331,7 @@ pack->包
 Pack of the Hunt->
 packing->
 paddy->
+Padded->軟墊
 Padre->
 Pain->
 Pain Rain->
@@ -22810,8 +22820,9 @@ poison strike->毒擊
 POISONSEVERITY->
 POITYPE->
 poking->戳
+pole->桿
 pole trap->桿陷阱
-pole traps->
+pole traps->桿陷阱
 Polearms->長柄武器
 polearms rack->長柄武器架
 polearms racks->長柄武器架
@@ -22928,7 +22939,7 @@ Prepare to die, ->
 Prepare to meet your maker, ->
 PREPSTATEMENTS->
 presence->
-press->按
+press->榨壓
 Press F2 to check your skills, and F3 to look at your inventory. Also press c in order to see your character window.->
 presses->壓力
 pretty bad.->很糟糕
@@ -23053,6 +23064,7 @@ Proficient spell casters, but they seem to avoid direct contact.->熟練的施�
 profile->簡介
 Profile->人物簡介
 Profile maintenance->
+professional->專業
 PROGRESS->
 Progress for ->
 Proper state achieved for mission ->
@@ -28434,6 +28446,7 @@ waving->
 Waving tentacles appear around the ->
 way->
 Way->
+waystone->路標
 WC Commands with Id:->
 WCCOMMANDS->
 We also take ->
@@ -33638,7 +33651,7 @@ brick->磚
 rounded->鵝卵
 stones->石
 skull->頭骨
-still->仍然
+still->蒸餾器
 undistilled->未蒸餾的
 vodka->伏特加
 boiler->燒水壺
