@@ -5424,7 +5424,7 @@ Roll with the eyes->使眼神示意
 Disbelieve->不信
 Worry->錯
 Disagree->不同意
-Tease->嘲笑
+Tease->嘲諷
 Laugh->大笑
 Cry->哭泣
 Point->指向
