@@ -501,7 +501,7 @@ Initialisation->初始化
 Render static->渲染靜態
 Ambient->環境
 Bumpmaps->
-Copy->覆制
+Copy->複製
 No Bumpmaps->
 Shadows->陰影
 Sun->太陽
@@ -1758,8 +1758,8 @@ Farm->耕種
 FARM->耕種
 Sow->播種
 SOW->播種
-Cultivate->松土
-CULTIVATE->松土
+Cultivate->鬆土
+CULTIVATE->鬆土
 Pick sprout->摘芽
 PICK_SPROUT->摘芽
 Prune->修剪
@@ -1826,8 +1826,8 @@ Target->目標
 TARGET->目標
 Target hostile->敵對目標
 TARGET_HOSTILE->敵對目標
-No target->取消目標
-NO_TARGET->取消目標
+No target->取消釘選
+NO_TARGET->取消釘選
 Fight defensive->謹慎的戰鬥
 FIGHT_DEFENSIVE->謹慎的戰鬥
 Fight normal->正常戰鬥
@@ -3129,7 +3129,7 @@ Warning: Can't toggle inventory container window, because the item dosent exist-
 Copy Ticket->副本門票
 (https?://[^/ ]+)[^ ]*->
 Open in browser: ->在瀏覽器中打開:
-Copy ->覆制
+Copy ->複製
 Bml test->BML測試
 t hand->
 Health bar->血條
@@ -3695,7 +3695,7 @@ removeManager on unknown owner->
 addTab on unknown owner->
 removeTab on unknown owner->
 copy_menu->
-Copy line->
+Copy line->複製行
 <([a-zA-Z]+)>->
 nick_->
 Copy name->
@@ -13878,7 +13878,7 @@ border{scroll{vertical='true';horizontal='false';varray{rescale='true';passthrou
 border{scroll{vertical='true';horizontal='true';varray{rescale='false';passthrough{id='id';text='->
 bot->
 Botanist->
-Botanize for->
+Botanize for->採集植物到
 botanizing->
 Botanizing->採集
 both->都
@@ -22252,7 +22252,7 @@ Order of the ->
 ordering->
 ore->礦石
 Ore.png->
-oregano->牛至
+oregano->牛至香辛料
 org.sqlite.JDBC->
 Organisation forced upon the individual->
 oriel->凸窗
@@ -26378,7 +26378,7 @@ The ground isn't fit for paving any longer, and your efforts are ruined.->這塊
 The ground isn't packed here. You have to pack it first.->這片土地不緊實,你得先壓實這塊地.
 The ground isn't paved any longer, and your efforts are ruined.->這塊地不再平坦,你的努力白費了.
 The ground must be flat for advanced constructions.->這塊地不平,不能做高級的建築物.
-The ground must be loosened dirt for any seeds to grow.->這塊地在種植之前,先需要先松土.
+The ground must be loosened dirt for any seeds to grow.->這塊地在種植之前,先需要先鬆土.
 The ground sounds strangely hollow and brittle. You have to abandon the mining operation.->地面下傳來奇怪的空洞的回響,不能在這裡採礦.
 The group must be empty before you can remove it.->在你移除團隊之前必須保證它是空的
 The guards kindly inform you that you are not allowed to do that here.->衛兵通告你,這裡不許這麽做
@@ -32774,6 +32774,7 @@ Ip to ban:->
 irc.rizon.net->
 irc_log_rotation->
 irc_notif->
+It also seems not very nutritional->但好像不是很營養
 Is that even possible?->
 Is this really a good show?->
 It all depends on us finding the Scales.->
@@ -33767,7 +33768,7 @@ Lawn->草坪
 ceiling->天花板
 leggat->草叉
 crowbar->撬棍
-so full->好飽
+you are so full->你好飽
 cannot possibly eat anything else->不能夠在繼續吃東西了...
 as->作為
 driver->司機
@@ -33794,7 +33795,7 @@ lit->點燃
 removing->清乾淨
 from->從
 found->找到
-slightly salty but->有點鹹但是
+slightly salty but still cools->有點鹹但是仍然涼爽的
 cools->涼爽的
 no longer->不再
 Pave->鋪平
