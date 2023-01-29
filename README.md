@@ -1,5 +1,6 @@
 # Wurm-Unlimited-Traditional-Chinese-Language-Pack
 # 電腦需安裝 Java
+# 在steam上找到遊戲-右鍵管理-本機檔案資料夾
 # 模組包放置於遊戲WurmLauncher 資料夾內
 # 語言包放置於遊戲 WurmLauncher 資料夾內
 ![圖1](https://i.imgur.com/TUYXfUx.png)
