@@ -1,4 +1,4 @@
-# Wurm Unlimited Traditional Chinese Language Pack Wurm Unlimited 繁體中文語言包
+# Wurm Unlimited Traditional Chinese Language Pack 繁體中文語言包
 # 電腦需安裝 Java
 # 在steam上找到遊戲-右鍵管理-本機檔案資料夾
 # 模組包放置於遊戲WurmLauncher 資料夾內
