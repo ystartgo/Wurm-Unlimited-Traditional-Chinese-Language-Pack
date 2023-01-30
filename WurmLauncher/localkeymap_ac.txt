@@ -13395,9 +13395,9 @@ As the ruler of a settlement you may not risk joining the Horde of the Summoned 
 As the Sandwich-Islander believes that the strength and valor of the enemy he kills passes into himself, so we gain the strength of the temptations we resist->
 As you drop the ->
 As you listen, you hear voices from beyond->你湊近耳朵去聽,仿佛聽到了從遠處傳來的聲音.
-As you wake up with this insight, you have to wipe off some drool on your chin.->
-As your ->
-Ascend to demigod->
+As you wake up with this insight, you have to wipe off some drool on your chin.->當你醒來有了這個體悟，你必須抹掉下巴上的口水
+As your ->當你
+Ascend to demigod->晉升半神
 Ascendant->
 Ascended->
 Ascension->
@@ -13434,14 +13434,14 @@ At target->
 Athlete->
 Atlas Reincarnated->
 atrask->
-Attach lock->
-Attach Locks->
-Attached Lock->
+Attach lock->附加鎖
+Attach Locks->附加鎖
+Attached Lock->已附加鎖
 Adolescent->年少的
-Attached lock to door->
-Attached lock to gate->
-attaching lock->
-attachLocks->
+Attached lock to door->已將鎖安裝在門上
+Attached lock to gate->鎖已附加到柵欄門
+attaching lock->附加鎖中
+attachLocks->附加鎖
 attack->攻擊
 Attack->攻擊
 ATTACK->攻擊
@@ -13923,6 +13923,7 @@ Bowmaker->鮑梅克
 bows->弓
 Bows->弓
 Bowyery->制弓
+bowyery->制弓
 box->箱
 BR-->
 Braaains->
@@ -14723,9 +14724,9 @@ Citizen management->管理平民
 Citizen of ->平民（來自
 CitizenRole->平民角色
 Citizens->平民
-Citizens have village id ->
+Citizens have village id ->平民擁有的村莊 ID
 Citizens of \->
-Citizens of my deed->
+Citizens of my deed->平民我的行為
 CitizenVillage->平民村莊
 Clairvoyant->通靈者
 clam->扇貝						
