@@ -5371,6 +5371,8 @@ short.->短
 long.->長
 medium.->中型
 large.->大型.
+large->大型
+Large->大型
 magic.->魔法
 wand.->魔杖
 rod.->棍棒
@@ -22391,6 +22393,7 @@ passage->
 Passage->
 passed the challenge put forth by the people of ->
 Passenger->乘客
+passenger->乘客
 passGates->
 Passive ->
 passthrough{id=\->
