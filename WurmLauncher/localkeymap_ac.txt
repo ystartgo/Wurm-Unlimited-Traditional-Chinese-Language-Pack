@@ -2921,7 +2921,7 @@ Create->創造
 C R E A T E->創造
 Source->起源
 Action queue.->製作隊列
-How many actions you can queue up depends on your mind logic.->你製作隊列的長度取決於你的邏輯思維能力.
+How many actions you can queue up depends on your mind logic.->您可以排隊多少個操作取決於您的邏輯思維能力.
 Unfinished ->未完成的
 Incomplete ->不完全
 You don't have that item.->你沒有那個物品.
@@ -6560,7 +6560,7 @@ Failed to create XMLReader!!->
  deleted effect ->
  Deleted server with name ->
  deleted. PlayerInfo is null->
- demands ->
+ demands ->需要
  demands that the presence of ->
  Den found at ->
  denied shutdown due to wrong password.->
@@ -6873,7 +6873,7 @@ Failed to create XMLReader!!->
  finishes loading the ->
  finishes milking the ->
  finishes planning the house.->完成了房屋的規劃.
- finishes tending to the ->
+ finishes tending to the ->完成照料
  finishes the sermon by asking you to join ->
  firedam=->
  fires at ->
@@ -17339,7 +17339,7 @@ farwalker stones->遠行者之石
 farwalker twig->遠行者之杖
 farwalker twigs->遠行者之杖
 Fascinating. Anyways, we have decided to offer you all the newcomers.->
-fast->
+fast->快速
 Fast Learner->快速學習者
 faste->
 Faster skillgain, missions affect Valrei->
@@ -18729,7 +18729,7 @@ How important is knowledge of history?->歷史知識有多重要？
 How is aggression good for you?->
 How is your knowledge in ->
 How long plans can I make and do I wish to?->
-How many items do you wish to remove?->
+How many items do you wish to remove?->您要刪除多少物品?
 How many Sons?->
 How may we help you?->
 How nice of you to feed the pet->
@@ -21164,6 +21164,7 @@ Mok... Kill it!->
 Mold->修型
 molding->修型
 Mole Senses->
+moldy->發霉的
 molly->
 molr.->
 Mol-Rehan tower guard->莫瑞漢塔衛
@@ -22899,7 +22900,7 @@ pottery flask->陶瓶
 pottery flasks->陶瓶
 pottery flowerpot->陶花盆
 pottery flowerpots->陶花盆
-pottery jar->陶壇
+pottery jar->陶罐
 pottery jars->陶罐
 Pottery shaped into a flat shingle.->
 pottery shingle->陶瓦
@@ -23824,6 +23825,7 @@ ROTATION->
 ROTDAMQL->
 rotten->腐敗的
 Rotten->腐敗的
+rotten sardin->腐敗的沙丁魚
 Rotten Blood->腐敗的血
 Rotten stomach->腐敗的胃
 rotten, bad, evil and dangerous.->
@@ -30165,8 +30167,8 @@ You failed ->
 You failed to convert to ->
 You failed to create ->
 You failed to figure out what is needed for this ->
-You failed to find anything to do with that.->
-You failed to respond in time. Disconnecting.->
+You failed to find anything to do with that.->你找不到與此有關的任何內容
+You failed to respond in time. Disconnecting.->你沒有及時回覆斷開連結
 You fall into a trance. ->
 You fall into the water and crawl back up all soaked. Who gives a damn?->
 You fall to your knees and worship ->
@@ -32391,7 +32393,7 @@ A trigger effect that triggers on Not Started (0) will start a new mission and s
 A type Flatten will flatten the ground to your level (even if flying!) by raising dirt, lowering rock to 10.0 dirt below the dirt level if it is higher.->
 Action performed on target ->
 Action performed on target | Use current:->
-Action queue.\nHow many actions you can queue up depends on your mind logic.->
+Action queue.\nHow many actions you can queue up depends on your mind logic.->操作隊列.\n您可以排隊多少個操作取決於您的邏輯思維能力。
 Add a description. Only used for popups.->
 Add role->
 adp_name=->
